@@ -1,0 +1,1 @@
+{"uuid":"96088456-eb59-424e-aca5-1b3f9c434419","name":"com.lemon.cases.BaseCase.afterMethod","description":"","start":1632550709553,"stop":1632550709554,"children":["ebf402f9-63cc-487e-a934-92043444d099"],"afters":[{"name":"afterMethod","status":"passed","stage":"finished","description":"","start":1632550709553,"stop":1632550709554}]}
